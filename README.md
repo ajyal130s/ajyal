@@ -36,20 +36,16 @@ A sophisticated desktop application designed to process and enhance document ima
 
 ---
 
-## 🚀 Download
+## 🚀 Download 
 
 📥 **[Download Latest Release (v2.1.1 Stable)](https://github.com/ajyal130s/ajyal/releases/tag/v2.1.1)**
 
 ---
 
-## 📞 Technical Support & Activation
+## 📞 Technical Support / الدعم التقني
 
-If you encounter any problems, need help, or require an activation code for the program:
+If you encounter any problems or need help:
 
-* 📞 **English / العربية:**  
   [Contact Support via Telegram](https://t.me/ajyal_support_bot)
 
 ---
-📞 الدعم الفني والحصول على أكواد التفعيل
-إذا واجهتك أي مشكلة، أو أردت الحصول على كود التفعيل الخاص بالبرنامج، يمكنك مراسلتنا مباشرة عبر بوت التليجرام:
-👉 [تواصل مع الدعم عبر التليجرام](https://t.me/ajyal_support_bot)
