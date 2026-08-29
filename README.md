@@ -1,4 +1,4 @@
-# 📄 Ajyal Scanner Pro
+# 📄 Ajyal Scanner Pro - Smart Desktop Document Scanner For Windows
 
 🌐 **Official Website:** [ajyalscanner.netlify.app](https://ajyalscanner.netlify.app)
 
