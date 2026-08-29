@@ -1,7 +1,10 @@
 # 📄 Ajyal Scanner Pro
 
+🌐 **Official Website:** [ajyalscanner.netlify.app](https://ajyalscanner.netlify.app)
+
 A sophisticated desktop application designed to process and enhance document images and documents with high precision and speed — powered by programmatic edge detection and classical computer vision.
 
+---
 ---
 
 ## ✨ Key Features
