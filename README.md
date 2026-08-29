@@ -44,7 +44,7 @@ A sophisticated desktop application designed to process and enhance document ima
 If you encounter any problems, need help, or require an activation code for the program:
 
 * 📞 **English / العربية:**  
-  [Contact Support via Telegram](https://t.me/YOUR_TELEGRAM_BOT_USERNAME)
+  [Contact Support via Telegram](https://t.me/ajyal_support_bot)
 
 ---
 📞 الدعم الفني والحصول على أكواد التفعيل
