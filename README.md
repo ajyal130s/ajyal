@@ -28,7 +28,14 @@ A sophisticated desktop application designed to process and enhance document ima
   Full 90° rotations while maintaining coordinate memory, plus fixed aspect ratio templates (A4, US Letter, ID Cards, Square).
 
 ---
+## <img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/b6f9afce-044b-4949-af4f-fd60e729193a" />
+<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/c4e801f7-d843-4ee4-b5f4-be884c1fc07b" />
 
+
+
+
+
+---
 ## 💻 System Requirements
 
 * **Operating System:** Windows 10 / Windows 11 (64-bit)
@@ -49,3 +56,4 @@ If you encounter any problems or need help:
   [Contact Support via Telegram](https://t.me/ajyal_support_bot)
 
 ---
+
