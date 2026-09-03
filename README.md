@@ -45,7 +45,7 @@ A sophisticated desktop application designed to process and enhance document ima
 
 ## 🚀 Download 
 
-📥 **[Download Latest Release (v2.1.1 Stable)](https://github.com/ajyal130s/ajyal/releases/latest)**
+📥 **[Download Latest Release](https://github.com/ajyal130s/ajyal/releases/latest)**
 
 ---
 
