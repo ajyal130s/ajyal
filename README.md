@@ -1,8 +1,12 @@
 # 📄 Ajyal Scanner Pro - Smart Desktop Document Scanner For Windows
 
+A sophisticated desktop application designed to process and enhance document images and documents with high precision and speed — powered by programmatic edge detection and classical computer vision.
+
 🌐 **Official Website:** [ajyalscanner.netlify.app](https://ajyalscanner.netlify.app)
 
-A sophisticated desktop application designed to process and enhance document images and documents with high precision and speed — powered by programmatic edge detection and classical computer vision.
+<a href="https://t.me/ajyal_s">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="24" height="24" alt="Telegram"> Join our Community on Telegram
+</a>
 
 ---
 ---
