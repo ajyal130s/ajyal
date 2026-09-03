@@ -39,7 +39,7 @@ A sophisticated desktop application designed to process and enhance document ima
 ## 💻 System Requirements
 
 * **Operating System:** Windows 10 / Windows 11 (64-bit)
-* **Installation:** Standalone Setup (`ASP2.1.1_setup.exe`)
+* **Installation:** Standalone Setup (`ASPx.y.z_setup.exe`)
 
 ---
 
