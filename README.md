@@ -175,7 +175,7 @@ Plus **unlimited user-defined presets**, saved with a single click and reapplied
 
 **© 2024–2026 Ajyal. All Rights Reserved.**
 
-Ajyal Scanner Pro is proprietary software. Unauthorized copying, modification, distribution, reverse engineering, decompilation, or resale of this software — in whole or in part — is strictly prohibited without prior written permission from the author.
+Ajyal Scanner is proprietary software. Unauthorized copying, modification, distribution, reverse engineering, decompilation, or resale of this software — in whole or in part — is strictly prohibited without prior written permission from the author.
 
 This software is licensed, not sold. Your use is governed by the terms of the Ajyal End-User License Agreement.
 
