@@ -173,9 +173,9 @@ Plus **unlimited user-defined presets**, saved with a single click and reapplied
 
 ## 📜 Copyright & License
 
-**© 2024–2026 Ajyal. All Rights Reserved.**
+**© 2024–2026 Ajyal Stationery & Copy Center. All Rights Reserved.**
 
-Ajyal Scanner is proprietary software. Unauthorized copying, modification, distribution, reverse engineering, decompilation, or resale of this software — in whole or in part — is strictly prohibited without prior written permission from the author.
+Ajyal Scanner is proprietary software. Unauthorized copying, modification, distribution, reverse engineering, decompilation, or resale of this software — in whole or in part — is strictly prohibited without prior written permission from the author (Ajyal Stationery & Copy Center).
 
 This software is licensed, not sold. Your use is governed by the terms of the Ajyal End-User License Agreement.
 
@@ -184,6 +184,6 @@ For licensing, commercial use, or partnership inquiries: **ajyalsupport@gmail.co
 ---
 
 <p align="center">
-  <sub>© Ajyal — Built with precision for professionals who demand the best from their documents.</sub><br>
-  <sub>All Rights Reserved © 2024–2026 Ajyal.</sub>
+  <sub>© Ajyal Stationery & Copy Center — Built with precision for professionals who demand the best from their documents.</sub><br>
+  <sub>All Rights Reserved © 2024–2026 Ajyal Stationery & Copy Center.</sub>
 </p>
