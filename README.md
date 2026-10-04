@@ -1,3 +1,5 @@
+**English** | [العربية](./README.ar.md)
+
 # 📄 Ajyal Scanner - Smart Desktop Document Scanner for Windows
 
 A sophisticated Windows desktop application designed to process and enhance document images and PDFs with high precision and speed.
