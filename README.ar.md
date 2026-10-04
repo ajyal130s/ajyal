@@ -1,6 +1,8 @@
-[English](./README.md) | **العربية**
+<div dir="rtl">
 
-# 📄 Ajyal Scanner - ماسح المستندات المكتبي الذكي لنظام Windows
+**العربية** | [English](./README.md)
+
+# <p align="right" dir="rtl">📄 Ajyal Scanner - ماسح المستندات المكتبي الذكي لنظام Windows</p>
 
 تطبيق مكتبي متطور لنظام Windows، مصمم لمعالجة وتحسين صور المستندات وملفات PDF بدقة وسرعة عاليتين.
 
@@ -175,9 +177,9 @@
 
 ## 📜 حقوق النشر والترخيص
 
-**© 2024–2026 Ajyal Stationery & Copy Center. جميع الحقوق محفوظة.**
+**<p align="right" dir="rtl"><strong>© 2024–2026 Ajyal Stationery & Copy Center. جميع الحقوق محفوظة.</strong></p>**
 
-Ajyal Scanner هو برنامج احتكاري. يُحظر تمامًا النسخ أو التعديل أو التوزيع أو الهندسة العكسية أو فك التجميع أو إعادة البيع لهذا البرنامج — كليًا أو جزئيًا — دون إذن كتابي مسبق من المؤلف (Ajyal Stationery & Copy Center).
+<p align="right" dir="rtl"><strong>Ajyal Scanner هو برنامج احتكاري. يُحظر تمامًا النسخ أو التعديل أو التوزيع أو الهندسة العكسية أو فك التجميع أو إعادة البيع لهذا البرنامج — كليًا أو جزئيًا — دون إذن كتابي مسبق من المؤلف (Ajyal Stationery & Copy Center).</strong></p>
 
 هذا البرنامج مرخّص وليس مبيعًا. يخضع استخدامك لشروط اتفاقية ترخيص المستخدم النهائي الخاصة بـ Ajyal.
 
@@ -189,3 +191,5 @@ Ajyal Scanner هو برنامج احتكاري. يُحظر تمامًا النس
   <sub>© Ajyal Stationery & Copy Center — صُنع بدقة للمحترفين الذين يطلبون الأفضل من مستنداتهم.</sub><br>
   <sub>جميع الحقوق محفوظة © 2024–2026 Ajyal Stationery & Copy Center.</sub>
 </p>
+
+</div>
